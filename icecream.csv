@@ -1,11 +1,9 @@
-ID	Flavours	Price
-1	Caramel	100
-2	Vanilla	50
-3	Mint	70
-4	21st Love	75
-5	Blue Berry	80
-6	Butterscotch	60
-7	Cookies and Cream	90
-8	Strawberry	50
-9	Coffee	70
-10	Chocolate	50
+Caramel                        ,70
+Chocolate               ,50
+Strawberry              ,50
+Vanilla                     ,60
+Cookies and Cream         ,100
+Blue Berry               ,80
+Coffee                       ,70
+Mint                         ,60
+Butterscotch            ,60
