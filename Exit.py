@@ -1,10 +1,10 @@
 import sys
 
-class Exit():
+class ExitApp():
 
     def __init__(self):
         self.message="Thankyou For Using Our Application !"
-        Exit.exitApp(self)
+        ExitApp.exitApp(self)
     
     def exitApp(self):
         sys.exit(self.message)
